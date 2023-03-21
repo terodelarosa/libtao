@@ -1,0 +1,22 @@
+{
+  "name": "libtao",
+  "version": "0.0.1",
+  "description": "Tao definitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terodelarosa/libtao.git"
+  },
+  "keywords": [
+    "tao"
+  ],
+  "author": "Tero de la Rosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terodelarosa/libtao/issues"
+  },
+  "homepage": "https://github.com/terodelarosa/libtao#readme"
+}
